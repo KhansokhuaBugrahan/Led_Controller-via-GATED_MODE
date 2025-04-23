@@ -20,3 +20,13 @@ Example function in the project;
 
  
 ![Alt text](https://github.com/KhansokhuaBugrahan/Led_Controller-via-GATED_MODE/blob/main/gated%20mode%20logic%20analyzer.PNG)
+
+
+
+
+
+
+
+
+
+You can find the full explanation at the end of the main file as comment.
