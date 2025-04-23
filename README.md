@@ -19,3 +19,4 @@ Example function in the project;
  10 - X second only blue LED blinks. 
 
  
+![Alt text](https://github.com/KhansokhuaBugrahan/Led_Controller-via-GATED_MODE/blob/main/gated%20mode%20logic%20analyzer.PNG)
